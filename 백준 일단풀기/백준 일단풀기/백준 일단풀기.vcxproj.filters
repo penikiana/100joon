@@ -39,5 +39,26 @@
     <ClCompile Include="10817번 세 수 중 가운데 크기의 수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2739번 구구단.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10950번 A+B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8393 1부터 n까지의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15552 빠른 A+B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2741 N찍기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2742번 기찍N 돌았 ㅋㅋㅋㅋㅋㅋ.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11021 A+B 깔끔하게.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
